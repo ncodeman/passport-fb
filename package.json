@@ -1,5 +1,5 @@
 {
-  "name": "passport-facebook",
+  "name": "passport-fb",
   "version": "1.0.0",
   "description": "Facebook authentication strategy for Passport.",
   "keywords": [
